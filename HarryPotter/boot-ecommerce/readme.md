@@ -5,7 +5,7 @@ PruebaPT
 Here, we are using the following technologies:
 
 * SpringBoot 2
-* Hibernate 5
+* JPA
 * Angular 8
 * Bootstrap CSS framework
 * MYSQL
